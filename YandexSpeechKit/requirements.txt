@@ -1,2 +1,2 @@
-requests==2.18.4
+requests
 protobuf==3.5.0.post1
