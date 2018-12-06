@@ -1,0 +1,4 @@
+.idea/*
+env/*
+*_pb2.py
+private_settings.py
